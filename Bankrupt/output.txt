@@ -1,0 +1,9 @@
+﻿Simulation start
+Games ended by timeout: 44
+Turn count average: 595
+Cautious win percentage: 41 %
+Demanding win percentage: 17 %
+Impulsive win percentage: 42 %
+Random win percentage: 0 %
+Strategy with most wins: Impulsive
+Simulation end
